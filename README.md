@@ -69,7 +69,7 @@ Streamly is a full-stack YouTube-inspired video platform where users can upload,
 
 ## 📦 API Documentation
 
-- 📘 Postman Collection: [Download Here](https://your-postman-link.com)
+- 📘 Postman Collection: [Download Here]([https://your-postman-link.com](https://chaitanya-7904147.postman.co/workspace/chaitanya's-Workspace~4d123e95-d3c8-43f9-8cdf-6ca088785c63/collection/45095694-ba5e6a6d-705d-4a38-81a9-bd89ba8d7520?action=share&source=copy-link&creator=45095694))
 - 🔍 Swagger UI (coming soon)
 - Includes: headers, body, query params, and sample responses
 
