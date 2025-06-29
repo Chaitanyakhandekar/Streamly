@@ -1,22 +1,20 @@
-# Streamly# 🎬 Streamly – Your Ultimate Video Streaming Platform
+# 🎬 Streamly – Your Ultimate Video Streaming Platform
 
-Streamly is a full-stack YouTube-inspired video platform where users can upload, like, comment, and organize videos into playlists. Built with modern technologies and production-grade architecture, it’s designed for **speed, scalability, and clean API interaction**.
-
-![Streamly Banner](https://your-image-link.com/banner.jpg)
+**Streamly** is a full-stack YouTube-inspired video platform where users can upload, like, comment, and organize videos into playlists. Built with modern technologies and production-grade architecture, it’s designed for **speed, scalability, and clean API interaction**.
 
 ---
 
 ## 🚀 Tech Stack
 
-| Layer        | Tech Used                               |
-|--------------|------------------------------------------|
-| Frontend     | React.js (Planned)                      |
-| Backend      | Node.js, Express.js                    |
-| Database     | MongoDB + Mongoose                     |
-| Authentication | JWT (Access + Refresh Tokens)         |
-| Cloud Storage| Cloudinary                             |
-| File Uploads | Multer                                 |
-| API Testing  | Postman                                |
+| Layer           | Tech Used                            |
+|------------------|----------------------------------------|
+| Frontend         | React.js *(Planned)*                  |
+| Backend          | Node.js, Express.js                   |
+| Database         | MongoDB + Mongoose                    |
+| Authentication   | JWT (Access + Refresh Tokens)         |
+| Cloud Storage    | Cloudinary                            |
+| File Uploads     | Multer                                |
+| API Testing      | Postman                               |
 
 ---
 
@@ -43,8 +41,8 @@ Streamly is a full-stack YouTube-inspired video platform where users can upload,
 
 ## 📁 Playlist Management
 
-- Create/update/delete your own playlists
-- Add/remove videos to/from playlists
+- Create / Update / Delete your own playlists
+- Add / Remove videos to/from playlists
 - Fetch videos from a specific playlist with pagination
 
 ---
@@ -52,7 +50,7 @@ Streamly is a full-stack YouTube-inspired video platform where users can upload,
 ## 💬 Comment System
 
 - Add comments to any video
-- Like/unlike comments
+- Like / Unlike comments
 - Delete your own comments
 - Get comments count with pagination
 
@@ -60,31 +58,40 @@ Streamly is a full-stack YouTube-inspired video platform where users can upload,
 
 ## ❤️ Like System
 
-- Toggle like/unlike on videos, comments, tweets
+- Toggle like/unlike on Videos, Comments, Tweets
 - Get all likes with user info
 - Clean likes on deletion of parent (video/comment/tweet)
-- "IsLiked" status checker for UI
+- "IsLiked" status service for UI
 
 ---
 
 ## 📦 API Documentation
 
-- 📘 Postman Collection: [Download Here]([https://your-postman-link.com](https://chaitanya-7904147.postman.co/workspace/chaitanya's-Workspace~4d123e95-d3c8-43f9-8cdf-6ca088785c63/collection/45095694-ba5e6a6d-705d-4a38-81a9-bd89ba8d7520?action=share&source=copy-link&creator=45095694.com))
-- 🔍 Swagger UI (coming soon)
-- Includes: headers, body, query params, and sample responses
+🔗 Explore the full Postman collection below:  
+**📘 [Streamly API Collection (Postman)](https://chaitanya-7904147.postman.co/workspace/chaitanya's-Workspace~4d123e95-d3c8-43f9-8cdf-6ca088785c63/collection/45095694-ba5e6a6d-705d-4a38-81a9-bd89ba8d7520?action=share&source=copy-link&creator=45095694)**
+
+Includes:
+- ✅ Auth flow
+- ✅ Video routes
+- ✅ Like/Unlike logic
+- ✅ Playlist management
+- ✅ Comments system
+- ✅ Headers, Query Params, & Sample Responses
+
+> 💡 Coming Soon: Swagger UI Documentation
 
 ---
 
-## 📷 Screenshots
+## 🖼️ Screenshots
 
-> 📍 Coming soon with frontend UI
+> 📷 *Frontend is under development – Stay tuned for updates!*
 
 ---
 
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourname/streamly.git
+git clone https://github.com/yourusername/streamly.git
 cd streamly
 npm install
 npm run dev
