@@ -95,3 +95,16 @@ git clone https://github.com/yourusername/streamly.git
 cd streamly
 npm install
 npm run dev
+
+
+🤝 Contribution
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change
+
+
+📬 Contact
+Made with ❤️ by Chaitanya
+Follow for more full-stack projects and open-source work.
+
+
+Let me know if you also want a version with Markdown badges, contributors section, license, or frontend instructions once it's built.
+
